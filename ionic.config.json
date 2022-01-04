@@ -1,0 +1,7 @@
+{
+  "name": "vue-toast-24503",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
